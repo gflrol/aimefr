@@ -1,0 +1,76 @@
+{
+  "name": "Aventure-en-terre-du-milieu",
+  "title": "Aventure-en-terre-du-milieu",
+  "description": "L’Anneau Unique, La Terre du Milieu, Le Hobbit, Le Seigneur des Anneaux, et les personnages, objets, événements et lieux qu’on y trouve sont des marques déposées de The Saul Zaentz Company d/b/a Middle-earth Enterprises. et sont utilisés par Sophisticated Games Ltd. Tous droits réservés à leurs propriétaires respectifs. Édition française par Edge, Distribution par Novalis.",
+  "author": "Padhiver",
+  "version": "0.1",
+  "minimumCoreVersion": "9",
+  "compatibleCoreVersion": "9",
+  "systems": [
+    "dnd5e"
+  ],
+  "packs": [
+	{
+      "name": "Capacites-des-classes",
+      "label": "Capacités des classes",
+      "path": "packs/Capacités-des-classes.db",
+      "module": "LOTR-Compendium",
+      "entity": "Item"
+    },
+	{
+      "name": "Classes",
+      "label": "Classes",
+      "path": "packs/Classes.db",
+      "module": "LOTR-Compendium",
+      "entity": "Item"
+    },
+	{
+      "name": "Items",
+      "label": "Items",
+      "path": "packs/Items.db",
+      "module": "LOTR-Compendium",
+      "entity": "Item"
+    },
+	{
+      "name": "Articles",
+      "label": "Articles",
+      "path": "packs/Articles.db",
+      "module": "LOTR-Compendium",
+      "entity": "JournalEntry"
+    },
+	{
+      "name": "Cultures",
+      "label": "Cultures",
+      "path": "packs/Cultures.db",
+      "module": "LOTR-Compendium",
+      "entity": "Item"
+    },
+	{
+      "name": "Vertus",
+      "label": "Vertus",
+      "path": "packs/Vertus.db",
+      "module": "LOTR-Compendium",
+      "entity": "Item"
+    },
+	{
+      "name": "Table-aleatoire",
+      "label": "Table aléatoire",
+      "path": "packs/Table-aléatoire.db",
+      "module": "LOTR-Compendium",
+      "entity": "RollTable"
+    },
+	{
+      "name": "Historiques",
+      "label": "Historiques",
+      "path": "packs/Historiques.db",
+      "module": "LOTR-Compendium",
+      "entity": "Item"
+    }
+  ],
+  "socket": false,
+  "protected": false,
+  "coreTranslation": false,
+  "manifest": "https://github.com/Padhiver/Aventure-en-Terre-du-Milieu/releases/download/0.1/module.json",
+  "download": "https://github.com/Padhiver/Aventure-en-Terre-du-Milieu/releases/download/0.1/module.zip",
+  "url": "https://github.com/Padhiver/Aventure-en-Terre-du-Milieu"
+}
